@@ -1,0 +1,20 @@
+body {
+    background-color: blueviolet;
+}
+
+ form {
+    display: flex;
+    flex-direction: column;
+ }
+
+/* .inputCep{} */
+
+.inputResp {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+
+
